@@ -48,13 +48,13 @@ a {
 
 }
 
-ul li a {
+ul li a, footer a {
 
     opacity: 0.9;
 
 }
 
-ul li a:hover {
+ul li a:hover, footer a:hover {
 
 
     font-family: 'JetBrains Mono', monospace;
